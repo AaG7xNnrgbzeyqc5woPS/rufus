@@ -1,5 +1,6 @@
 Rufus: The Reliable USB Formatting Utility
 ==========================================
+开源的可靠的启动U盘建立工具
 
 [![Build status](https://img.shields.io/appveyor/ci/pbatard/rufus.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/rufus)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/2172.svg?style=flat-square)](https://scan.coverity.com/projects/pbatard-rufus)
